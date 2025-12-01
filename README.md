@@ -1,4 +1,5 @@
-# Hello there! Üdvözletem!
+# Hello there! 
+# Üdvözletem!
 <div align="center">
   
 🇬🇧 **English** | [🇭🇺 Magyar](#magyar-verzió)
@@ -29,7 +30,7 @@ My name is Máté Majoros and I am Computer Science BSc Student at the Universit
 
 <div align="center">
   
-🇭🇺 **Magyar** | [🇬🇧 English](#welcome-to-my-profile)
+🇭🇺 **Magyar** | [🇬🇧 English](#hello-there!)
 
 </div>
 
