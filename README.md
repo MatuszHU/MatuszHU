@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hello there! Üdvözletem!
+<div align="center">
+  
+🇬🇧 **English** | [🇭🇺 Magyar](#magyar-verzió)
+  
+</div>
 
-<!--
-**MatuszHU/MatuszHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+My name is Máté Majoros and I am Computer Science BSc Student at the University of Debrecen in Hungary about mobile app and game development. Experienced with Java, C#, Swift, Lua and full-stack projects.
 
-Here are some ideas to get you started:
+## Skills
+- Languages: Java, C#, Swift, Lua, JavaScript, SQL
+- Areas: iOS/Android apps, web development, signal processing
+- Tools: Android Studio, Xcode, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Mobile apps for iOS and Android
+- Full-stack web applications
+- Games with LÖVE 2D framework
+
+## Contact
+- Email: majoros.mate2004@yahoo.com
+- LinkedIn: [Máté Majoros](https://www.linkedin.com/in/máté-majoros)
+- Location: Debrecen, Hungary
+
+---
+
+# Magyar verzió
+
+<div align="center">
+  
+🇭🇺 **Magyar** | [🇬🇧 English](#welcome-to-my-profile)
+
+</div>
+
+## Rólam
+Programtervező-informatikus hallgató vagyok a Debreceni Egyetemen, szenvedélyem a mobil alkalmazás- és játékfejlesztés. Tapasztalattal rendelkezem Java, C#, Swift, Lua nyelvekben, valamint full-stack projekteken dolgozom.
+
+## Készségeim
+- Nyelvek: Java, C#, Swift, Lua, JavaScript, SQL
+- Területek: iOS/Android alkalmazások, webfejlesztés, jelfeldolgozás
+- Eszközök: Android Studio, Xcode, GitHub, VS Code, JetBrains IDE-k
+
+## Kiemelt projektek
+- Mobilalkalmazások iOS-re és Androidra
+- Full-stack webalkalmazások
+- Játékok LÖVE 2D keretrendszerrel
+
+## Elérhetőségek
+- Email: majoros.mate2004@yahoo.com
+- LinkedIn: [Majoros Máté](www.linkedin.com/in/máté-majoros)
+- Helyszín: Debrecen, Magyarország
+
+---
+
+⭐ Thanks for visiting! / Köszönöm, hogy benéztél!
