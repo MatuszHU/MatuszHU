@@ -36,7 +36,7 @@ My name is Máté Majoros and I am Computer Science BSc Student at the Universit
 </div>
 
 ## Rólam
-Programtervező-informatikus hallgató vagyok a Debreceni Egyetemen, szenvedélyem a mobil alkalmazás- és játékfejlesztés. Tapasztalattal rendelkezem Java, C#, Swift, Lua nyelvekben, valamint full-stack projekteken dolgozom.
+Heló! Majoros Máté vagyok és Programtervező-informatikus BSc hallgató vagyok a Debreceni Egyetemen, szenvedélyem a mobil alkalmazás- és játékfejlesztés. Tapasztalattal rendelkezem Java, C#, Swift, Lua nyelvekben, valamint full-stack projekteken dolgozom.
 
 ## Készségeim
 - Nyelvek: Java, C#, Swift, Lua, JavaScript, SQL
