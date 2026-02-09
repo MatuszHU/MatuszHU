@@ -31,7 +31,7 @@ My name is Máté Majoros and I am Computer Science BSc Student at the Universit
 
 <div align="center">
   
-🇭🇺 **Magyar** | [🇬🇧 English](#english-version) | [🇵🇹 Português](#versaõ-em-português)
+[🇬🇧 English](#english-version) | 🇭🇺 **Magyar** | [🇵🇹 Português](#versaõ-em-português)
 
 </div>
 
@@ -58,7 +58,7 @@ Heló! Majoros Máté vagyok és Programtervező-informatikus BSc hallgató vagy
 # Versão em português
 <div align="center">
 
-  **🇵🇹 Português** | [🇬🇧 English](#english-version) | [🇭🇺 Magyar](#magyar-verzió)
+[🇬🇧 English](#english-version) | [🇭🇺 Magyar](#magyar-verzió) | **🇵🇹 Português**
 
 </div>
 
