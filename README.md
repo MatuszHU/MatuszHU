@@ -8,7 +8,7 @@
 </div>
 
 ## About Me
-My name is Máté Majoros and I am Computer Science BSc Student at the University of Debrecen in Hungary, I am passionet about mobile app and game development. Experienced with Java, C#, Swift, Lua and full-stack projects.
+My name is Máté Majoros and I am Computer Science BSc Student at the University of Debrecen in Hungary, I am passionate about mobile app and game development. Experienced with Java, C#, Swift, Lua and full-stack projects.
 
 ## Skills
 - Languages: Java, C#, Swift, Lua, JavaScript, SQL
