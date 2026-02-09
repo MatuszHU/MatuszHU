@@ -3,7 +3,7 @@
 # English Version
 <div align="center">
   
-🇬🇧 **English** | [🇭🇺 Magyar](#magyar-verzió)
+🇬🇧 **English** | [🇭🇺 Magyar](#magyar-verzió) | [🇵🇹 Português](#versaõ-em-português)
   
 </div>
 
@@ -31,7 +31,7 @@ My name is Máté Majoros and I am Computer Science BSc Student at the Universit
 
 <div align="center">
   
-🇭🇺 **Magyar** | [🇬🇧 English](#english-version)
+🇭🇺 **Magyar** | [🇬🇧 English](#english-version) | [🇵🇹 Português](#versaõ-em-português)
 
 </div>
 
@@ -53,6 +53,35 @@ Heló! Majoros Máté vagyok és Programtervező-informatikus BSc hallgató vagy
 - LinkedIn: [Majoros Máté](www.linkedin.com/in/máté-majoros)
 - Helyszín: Debrecen, Magyarország
 
+---
+
+# Versão em português
+<div align="center">
+
+  **🇵🇹 Português** | [🇬🇧 English](#english-version) | [🇭🇺 Magyar](#magyar-verzió)
+
+</div>
+
+## Sobre mim
+Meu nome é Máté Majoros, sou estudante de Bacharelado em Ciência da Computação na Universidade de Debrecen, na Hungria, e sou apaixonado por desenvolvimento de aplicativos móveis e jogos. Tenho experiência com Java, C#, Swift, Lua e projetos full‑stack.
+​
+
+## Competências
+- Linguagens: Java, C#, Swift, Lua, JavaScript, SQL
+​- Áreas: aplicativos iOS/Android, desenvolvimento web, processamento de sinais
+​- Ferramentas: Android Studio, Xcode, GitHub, VS Code, IDEs da JetBrains
+​
+
+## Projetos em destaque
+- Aplicativos móveis para iOS e Android
+-​ Aplicações web full‑stack
+- ​Jogos com o framework LÖVE 2D
+​
+## Contato
+- Email: majoros.mate2004@yahoo.com
+- ​LinkedIn: Máté Majoros
+​- Localização: Debrecen, Hungria
+​
 ---
 
 ⭐ Thanks for visiting! / Köszönöm, hogy benéztél!
