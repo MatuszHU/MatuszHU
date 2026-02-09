@@ -3,7 +3,7 @@
 # English Version
 <div align="center">
   
-🇬🇧 **English** | [🇭🇺 Magyar](#magyar-verzió) | [🇵🇹 Português](#versaõ-em-português)
+🇬🇧 **English** | [🇭🇺 Magyar](#magyar-verzió) | [🇵🇹 Português](https://github.com/MatuszHU/MatuszHU/blob/main/README.md#vers%C3%A3o-em-portugu%C3%AAs)
   
 </div>
 
@@ -31,7 +31,7 @@ My name is Máté Majoros and I am Computer Science BSc Student at the Universit
 
 <div align="center">
   
-[🇬🇧 English](#english-version) | 🇭🇺 **Magyar** | [🇵🇹 Português](#versaõ-em-português)
+[🇬🇧 English](#english-version) | 🇭🇺 **Magyar** | [🇵🇹 Português](https://github.com/MatuszHU/MatuszHU/blob/main/README.md#vers%C3%A3o-em-portugu%C3%AAs)
 
 </div>
 
