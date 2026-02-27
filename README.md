@@ -10,6 +10,10 @@
 ## About Me
 My name is Máté Majoros and I am Computer Science BSc Student at the University of Debrecen in Hungary, I am passionate about mobile app and game development. Experienced with Java, C#, Swift, Lua and full-stack projects.
 
+## My Job
+I am currently working at Deutsche Telekom IT Solutions Hungary as an Infrastructure Operations Engineer intern and Exchange Application Administrator.
+![Telekom Logo (Magenta)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsche_Telekom_2022.svg/1920px-Deutsche_Telekom_2022.svg.png)
+
 ## Skills
 - Languages: Java, C#, Swift, Lua, JavaScript, SQL
 - Areas: iOS/Android apps, web development, signal processing
@@ -38,6 +42,10 @@ My name is Máté Majoros and I am Computer Science BSc Student at the Universit
 ## Rólam
 Heló! Majoros Máté vagyok és Programtervező-informatikus BSc hallgató vagyok a Debreceni Egyetemen, szenvedélyem a mobil alkalmazás- és játékfejlesztés. Tapasztalattal rendelkezem Java, C#, Swift, Lua nyelvekben, valamint full-stack projekteken dolgozom.
 
+## Munkahelyem
+Jelenleg a Deutsche Telekom IT Solutions Hungary-nál dolgozom, mint Infrastruktúra Üzemeltetési Mérnök gyakornok és Exchange Alkalmazás Adminisztrátor
+![Telekom Logo (Magenta)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsche_Telekom_2022.svg/1920px-Deutsche_Telekom_2022.svg.png)
+
 ## Készségeim
 - Nyelvek: Java, C#, Swift, Lua, JavaScript, SQL
 - Területek: iOS/Android alkalmazások, webfejlesztés, jelfeldolgozás
@@ -65,6 +73,9 @@ Heló! Majoros Máté vagyok és Programtervező-informatikus BSc hallgató vagy
 ## Sobre mim
 Meu nome é Máté Majoros, sou estudante de Bacharelado em Ciência da Computação na Universidade de Debrecen, na Hungria, e sou apaixonado por desenvolvimento de aplicativos móveis e jogos. Tenho experiência com Java, C#, Swift, Lua e projetos full‑stack.
 ​
+## O Meu Trabalho
+Atualmente, trabalho na Deutsche Telekom IT Solutions Hungary como estagiário de Engenharia de Operações de Infraestrutura e Administrador de Aplicações Exchange.
+![Telekom Logo (Magenta)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsche_Telekom_2022.svg/1920px-Deutsche_Telekom_2022.svg.png)
 
 ## Competências
   * Linguagens: Java, C#, Swift, Lua, JavaScript, SQL
