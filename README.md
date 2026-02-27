@@ -11,7 +11,7 @@
 My name is Máté Majoros and I am Computer Science BSc Student at the University of Debrecen in Hungary, I am passionate about mobile app and game development. Experienced with Java, C#, Swift, Lua and full-stack projects.
 
 ## My Job
-I am currently working at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsche_Telekom_2022.svg/1920px-Deutsche_Telekom_2022.svg.png" alt="[Telekom Logo (Magenta)" style="height: 2ex; width:1.5ch;"/> Deutsche Telekom IT Solutions Hungary as an Infrastructure Operations Engineer intern and Exchange Application Administrator.
+I am currently working at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsche_Telekom_2022.svg/1920px-Deutsche_Telekom_2022.svg.png" alt="[Telekom Logo (Magenta)" style="height: 1.8ex; width:1.4ch;"/> Deutsche Telekom IT Solutions Hungary as an Infrastructure Operations Engineer intern and Exchange Application Administrator.
 
 
 
