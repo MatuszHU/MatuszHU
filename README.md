@@ -69,7 +69,7 @@ Meu nome é Máté Majoros, sou estudante de Bacharelado em Ciência da Computa�
 ## Competências
 - Linguagens: Java, C#, Swift, Lua, JavaScript, SQL
 ​- Áreas: aplicativos iOS/Android, desenvolvimento web, processamento de sinais
-​- Ferramentas: Android Studio, Xcode, GitHub, VS Code, IDEs da JetBrains
+- Ferramentas: Android Studio, Xcode, GitHub, VS Code, IDEs da JetBrains
 ​
 
 ## Projetos em destaque
