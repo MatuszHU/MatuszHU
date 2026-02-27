@@ -67,21 +67,21 @@ Meu nome é Máté Majoros, sou estudante de Bacharelado em Ciência da Computa�
 ​
 
 ## Competências
-- Linguagens: Java, C#, Swift, Lua, JavaScript, SQL
-​- Áreas: aplicativos iOS/Android, desenvolvimento web, processamento de sinais
-- Ferramentas: Android Studio, Xcode, GitHub, VS Code, IDEs da JetBrains
+  * Linguagens: Java, C#, Swift, Lua, JavaScript, SQL
+  * Áreas: aplicativos iOS/Android, desenvolvimento web, processamento de sinais
+  * Ferramentas: Android Studio, Xcode, GitHub, VS Code, IDEs da JetBrains
 ​
 
 ## Projetos em destaque
-- Aplicativos móveis para iOS e Android
--​ Aplicações web full‑stack
-- ​Jogos com o framework LÖVE 2D
+  * Aplicativos móveis para iOS e Android
+  *​ Aplicações web full‑stack
+  * ​Jogos com o framework LÖVE 2D
 ​
 ## Contato
-- Email: majoros.mate2004@yahoo.com
-- ​LinkedIn: Máté Majoros
-​- Localização: Debrecen, Hungria
+  * Email: majoros.mate2004@yahoo.com
+  * ​LinkedIn: Máté Majoros
+  * Localização: Debrecen, Hungria
 ​
 ---
 
-⭐ Thanks for visiting! / Köszönöm, hogy benéztél!
+⭐ Thanks for visiting! / Köszönöm, hogy benéztél! / Obrigado pela visita. 🫡
