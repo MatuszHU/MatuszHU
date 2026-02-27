@@ -1,6 +1,6 @@
 # Hello there! Üdvözletem! Olá!
 
-# English Version
+# English
 <div align="center">
   
 🇬🇧 **English** | [🇭🇺 Magyar](#magyar-verzió) | [🇵🇹 Português](#versão-em-português)
@@ -32,11 +32,11 @@ I am currently working at **<img src="https://upload.wikimedia.org/wikipedia/com
 
 ---
 
-# Magyar verzió
+# Magyar
 
 <div align="center">
   
-[🇬🇧 English](#english-version) | 🇭🇺 **Magyar** | [🇵🇹 Português](#versão-em-português)
+[🇬🇧 English](#english) | 🇭🇺 **Magyar** | [🇵🇹 Português](#português)
 
 </div>
 
@@ -63,10 +63,10 @@ Jelenleg a **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd
 
 ---
 
-# Versão em português
+# Português
 <div align="center">
 
-[🇬🇧 English](#english-version) | [🇭🇺 Magyar](#magyar-verzió) | **🇵🇹 Português**
+[🇬🇧 English](#english) | [🇭🇺 Magyar](#magyar) | **🇵🇹 Português**
 
 </div>
 
