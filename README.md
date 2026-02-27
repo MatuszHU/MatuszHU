@@ -11,7 +11,7 @@
 My name is Máté Majoros and I am Computer Science BSc Student at the University of Debrecen in Hungary, I am passionate about mobile app and game development. Experienced with Java, C#, Swift, Lua and full-stack projects.
 
 ## My Job
-I am currently working at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsche_Telekom_2022.svg/1920px-Deutsche_Telekom_2022.svg.png" alt="[Telekom Logo (Magenta)" style=" width:1.3ch;"/> Deutsche Telekom IT Solutions Hungary as an Infrastructure Operations Engineer intern and Exchange Application Administrator.
+I am currently working at **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsche_Telekom_2022.svg/1920px-Deutsche_Telekom_2022.svg.png" alt="[Telekom Logo (Magenta)" style=" width:1.3ch;"/> Deutsche Telekom IT Solutions Hungary** as an Infrastructure Operations Engineer intern and Exchange Application Administrator.
 
 
 
@@ -44,8 +44,7 @@ I am currently working at <img src="https://upload.wikimedia.org/wikipedia/commo
 Heló! Majoros Máté vagyok és Programtervező-informatikus BSc hallgató vagyok a Debreceni Egyetemen, szenvedélyem a mobil alkalmazás- és játékfejlesztés. Tapasztalattal rendelkezem Java, C#, Swift, Lua nyelvekben, valamint full-stack projekteken dolgozom.
 
 ## Munkahelyem
-Jelenleg a Deutsche Telekom IT Solutions Hungary-nál dolgozom, mint Infrastruktúra Üzemeltetési Mérnök gyakornok és Exchange Alkalmazás Adminisztrátor
-![Telekom Logo (Magenta)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsche_Telekom_2022.svg/1920px-Deutsche_Telekom_2022.svg.png)
+Jelenleg a **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsche_Telekom_2022.svg/1920px-Deutsche_Telekom_2022.svg.png" alt="[Telekom Logo (Magenta)" style=" width:1.3ch;"/> Deutsche Telekom IT Solutions Hungary**-nál dolgozom, mint Infrastruktúra Üzemeltetési Mérnök gyakornok és Exchange Alkalmazás Adminisztrátor
 
 ## Készségeim
 - Nyelvek: Java, C#, Swift, Lua, JavaScript, SQL
@@ -75,8 +74,7 @@ Jelenleg a Deutsche Telekom IT Solutions Hungary-nál dolgozom, mint Infrastrukt
 Meu nome é Máté Majoros, sou estudante de Bacharelado em Ciência da Computação na Universidade de Debrecen, na Hungria, e sou apaixonado por desenvolvimento de aplicativos móveis e jogos. Tenho experiência com Java, C#, Swift, Lua e projetos full‑stack.
 ​
 ## O Meu Trabalho
-Atualmente, trabalho na Deutsche Telekom IT Solutions Hungary como estagiário de Engenharia de Operações de Infraestrutura e Administrador de Aplicações Exchange.
-![Telekom Logo (Magenta)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsche_Telekom_2022.svg/1920px-Deutsche_Telekom_2022.svg.png)
+Atualmente, trabalho na **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsche_Telekom_2022.svg/1920px-Deutsche_Telekom_2022.svg.png" alt="[Telekom Logo (Magenta)" style=" width:1.3ch;"/> Deutsche Telekom IT Solutions Hungary** como estagiário de Engenharia de Operações de Infraestrutura e Administrador de Aplicações Exchange.
 
 ## Competências
   * Linguagens: Java, C#, Swift, Lua, JavaScript, SQL
