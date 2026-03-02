@@ -18,7 +18,8 @@ I am currently working at **<img src="https://upload.wikimedia.org/wikipedia/com
 ## Skills
 - Languages: Java, C#, Swift, Lua, JavaScript, SQL
 - Areas: iOS/Android apps, web development, signal processing
-- Tools: Android Studio, Xcode, GitHub, VS Code
+- Microsoft 365 products, Exchange, Windows Server, Acitve Directory
+- Tools: Android Studio, Xcode, Git, VS Code, JetBrain IDEs
 
 ## Featured Projects
 - Mobile apps for iOS and Android
@@ -49,7 +50,8 @@ Jelenleg a **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd
 ## Készségeim
 - Nyelvek: Java, C#, Swift, Lua, JavaScript, SQL
 - Területek: iOS/Android alkalmazások, webfejlesztés, jelfeldolgozás
-- Eszközök: Android Studio, Xcode, GitHub, VS Code, JetBrains IDE-k
+- Microsoft 365 termékek, Exchange, Windows Server, Acitve Directory
+- Eszközök: Android Studio, Xcode, Git, VS Code, JetBrains IDE-k
 
 ## Kiemelt projektek
 - Mobilalkalmazások iOS-re és Androidra
@@ -79,7 +81,8 @@ Atualmente, trabalho na **<img src="https://upload.wikimedia.org/wikipedia/commo
 ## Competências
   * Linguagens: Java, C#, Swift, Lua, JavaScript, SQL
   * Áreas: aplicativos iOS/Android, desenvolvimento web, processamento de sinais
-  * Ferramentas: Android Studio, Xcode, GitHub, VS Code, IDEs da JetBrains
+  * Microsoft 365 produtos, Exchange, Windows Server, Acitve Directory
+  * Ferramentas: Android Studio, Xcode, Git, VS Code, IDEs da JetBrains
 ​
 
 ## Projetos em destaque
@@ -89,7 +92,7 @@ Atualmente, trabalho na **<img src="https://upload.wikimedia.org/wikipedia/commo
 ​
 ## Contato
   * Email: majoros.mate2004@yahoo.com
-  * ​LinkedIn: Máté Majoros
+  * LinkedIn: [Majoros Máté](www.linkedin.com/in/máté-majoros)
   * Localização: Debrecen, Hungria
 ​
 ---
