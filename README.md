@@ -27,7 +27,7 @@ I am currently working at **<img src="https://upload.wikimedia.org/wikipedia/com
 - Games with LÖVE 2D framework
 
 ## Contact
-- Email: majoros.mate2004@yahoo.com
+- Email: [majoros.mate2004@yahoo.com](mailto:majoros.mate2004@yahoo.com)
 - LinkedIn: [Máté Majoros](https://www.linkedin.com/in/máté-majoros)
 - Location: Debrecen, Hungary
 
@@ -59,7 +59,7 @@ Jelenleg a **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd
 - Játékok LÖVE 2D keretrendszerrel
 
 ## Elérhetőségek
-- Email: majoros.mate2004@yahoo.com
+- Email: [majoros.mate2004@yahoo.com](mailto:majoros.mate2004@yahoo.com)
 - LinkedIn: [Majoros Máté](www.linkedin.com/in/máté-majoros)
 - Helyszín: Debrecen, Magyarország
 
@@ -91,7 +91,7 @@ Atualmente, trabalho na **<img src="https://upload.wikimedia.org/wikipedia/commo
   * ​Jogos com o framework LÖVE 2D
 ​
 ## Contato
-  * Email: majoros.mate2004@yahoo.com
+  * Email: [majoros.mate2004@yahoo.com](mailto:majoros.mate2004@yahoo.com)
   * LinkedIn: [Majoros Máté](www.linkedin.com/in/máté-majoros)
   * Localização: Debrecen, Hungria
 ​
