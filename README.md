@@ -92,7 +92,7 @@ Atualmente, trabalho na **<img src="https://upload.wikimedia.org/wikipedia/commo
 ​
 ## Contato
   * Email: [majoros.mate2004@yahoo.com](mailto:majoros.mate2004@yahoo.com)
-  * LinkedIn: [Majoros Máté](www.linkedin.com/in/máté-majoros)
+  * LinkedIn: [Majoros Máté](https://www.linkedin.com/in/máté-majoros)
   * Localização: Debrecen, Hungria
 ​
 ---
